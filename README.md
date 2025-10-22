@@ -30,13 +30,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Arango DB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beyondtoday757&show_icons=true&line_height=28)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyondtoday757&layout=donut)
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=BeyondToday757)](https://git.io/streak-stats)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=beyondtoday757&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15)
-
 </div>
